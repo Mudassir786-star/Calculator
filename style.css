@@ -1,0 +1,32 @@
+body{
+    margin: auto;
+    
+}
+.main{
+    border: 10px solid crimson; 
+    width: 595px;
+    margin-bottom: 4px;
+    margin: auto;
+    background-color: chartreuse;
+}
+marquee{
+    background-color: chartreuse;
+    font-size: 3em;
+}
+.input{
+    width: 99%;
+    height: 90px;
+    font-size: 70px; 
+    border-radius: 20px; 
+    border: 9em;
+}
+.btn{
+    
+    width: 140px;
+    margin-top: 8px;
+    margin-left: 4.5px;
+    height: 60px;
+    background-color:wheat;
+    border-radius: 100px;
+    font-size: 2em;
+}
